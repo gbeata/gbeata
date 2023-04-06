@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gbeata
-- 👀 I’m interested in drawing, learning about software testing
-- 🌱 I’m currently learning software testing
+- 👀 I’m interested in drawing, learning more about software testing
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me maybe by email
 
